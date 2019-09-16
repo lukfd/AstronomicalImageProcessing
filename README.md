@@ -17,4 +17,4 @@ Image processing program. Take four astronomical images in black and white (with
 - 10/4 at 6:00 (No backups dates)
 - 11/4 at 6:00
 
-![picture](/M51_Lum.jpg)
+![picture](https://github.com/lukfd/Colorastro/blob/master/NGC7331_Red.jpg)
